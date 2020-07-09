@@ -16,4 +16,3 @@ def setup_tfjs_mnist():
             'icon_path': os.path.join(os.path.dirname(os.path.abspath(__file__)), 'icons', 'tfjs_mnist.svg')
         }
     }
-© 2020 GitHub, Inc.
