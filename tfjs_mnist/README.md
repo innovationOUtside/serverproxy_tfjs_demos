@@ -1,0 +1,1 @@
+Via https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html
