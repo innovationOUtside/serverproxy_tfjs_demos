@@ -17,4 +17,4 @@ setup(
         'jupyter_serverproxy_servers': [
             'tfjs_mnist = tfjs_mnist:setup_tfjs_mnist',
         ]
-    }
+    })
