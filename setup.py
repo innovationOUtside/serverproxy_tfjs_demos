@@ -25,10 +25,10 @@ setup(
         'jupyter-server-proxy',
         'notebook'
     ],
-    url="https://github.com/innovationOUtside/nb_tensorflow_playground_serverproxy",
+    url="https://github.com/innovationOUtside/serverproxy_tfjs_demos",
     author='Tony Hirst',
     author_email='tony.hirst@open.ac.uk',
-    description='Jupyter notebook server proxy extension for tensorflow playground.js (MNIST)',
+    description='Jupyter notebook server proxy extension for tfjs (MNIST)',
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     entry_points={
