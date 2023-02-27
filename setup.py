@@ -12,7 +12,7 @@ def get_long_description():
 setup(
     name="nb-tfjs_mnist",
     packages= ['tfjs_mnist'],
-    version='0.0.2',
+    #version='0.0.2',
     include_package_data=True,
     package_data={
         "tfjs_mnist": ["static/index.html",
