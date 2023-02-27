@@ -12,6 +12,7 @@ def get_long_description():
 setup(
     name="nb-tfjs_mnist",
     packages= ['tfjs_mnist'],
+    version='0.0.2',
     include_package_data=True,
     package_data={
         "tfjs_mnist": ["static/index.html",
@@ -22,8 +23,7 @@ setup(
          ],
     },
     install_requires=[
-        'jupyter-server-proxy',
-        'notebook'
+        'jupyter-server-proxy'
     ],
     url="https://github.com/innovationOUtside/serverproxy_tfjs_demos",
     author='Tony Hirst',
