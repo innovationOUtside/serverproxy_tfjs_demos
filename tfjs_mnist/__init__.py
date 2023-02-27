@@ -4,7 +4,7 @@ See https://jupyter-server-proxy.readthedocs.io/en/latest/server-process.html
 for more information.
 """
 
-__version__="0.0.1"
+__version__="0.0.2"
 
 import os
 import pkg_resources
